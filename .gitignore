@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments (root and inside modules like MO5/venv)
+venv/
+*/venv/
+
+# Django (root and inside modules)
+db.sqlite3
+*/db.sqlite3
+
+# macOS
+.DS_Store
